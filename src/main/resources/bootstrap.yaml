@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: parameter-store
+
+aws:
+  paramstore:
+    fail-fast: true
+    prefix: /config
+    profileSeparator: _
+    defaultContext: application
+    region: us-east-1

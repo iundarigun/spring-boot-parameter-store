@@ -1,0 +1,8 @@
+parameter-store:
+  sample: sample local value
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
