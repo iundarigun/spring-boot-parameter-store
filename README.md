@@ -40,3 +40,7 @@ We can use `Refresh Endpoint` to do it internally. See `SchedulingRefreshConfigu
 - https://github.com/awspring/spring-cloud-aws
 - https://docs.awspring.io/spring-cloud-aws/docs/2.3.1/reference/html/index.html#integrating-your-spring-cloud-application-with-the-aws-parameter-store
 - https://towardsaws.com/how-to-externalize-spring-boot-properties-to-an-aws-system-manager-parameter-store-2a945b1e856f
+
+
+
+
